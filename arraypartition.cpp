@@ -1,3 +1,5 @@
+// OK to use map<Ivec, int> and just make out permutations?
+
 #define MY_MAX_NUM  1000001
 typedef vector<int> Ivec;
 
