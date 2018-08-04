@@ -1,4 +1,4 @@
-// TEST FOR TINY BOARDS!
+// seems OK but testk FOR TINY BOARDS!
 
 inline string alpha_result(bool result) { return result ? "Yes" : "No"; }
 
