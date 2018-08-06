@@ -104,9 +104,8 @@ Ivec get_primes(const int limit)
 	{
 		bool isprime = true;
 
-		if (number <= 1) isprime = false;
-
-		if (number <= 3) isprime = true;
+		// if (number <= 1) isprime = false;
+		// if (number <= 3) isprime = true;
 
 		if (number % 2 == 0 || number % 3 == 0) isprime = false;
 
